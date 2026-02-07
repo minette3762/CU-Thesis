@@ -5,10 +5,10 @@ This work addresses the critical issue of groundwater contamination. It aims to 
 
 <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
   <div style="text-align: center;">
-    <img src="../../assets/prbc0.png" alt="Initial Condition" style="max-width: 300px; width: 100%;">
+    <img src="/src/prbc0.png" alt="Initial Condition" style="max-width: 300px; width: 100%;">
   </div>
   <div style="text-align: center;">
-    <img src="../../assets/prbc2000.png" alt="After Treatment" style="max-width: 300px; width: 100%;">
+    <img src="/src/prbc2000.png" alt="After Treatment" style="max-width: 300px; width: 100%;">
   </div>
 </div>
 <div style="text-align: center; font-size: 0.9em; color: #555; margin-top: 0.5em;">
